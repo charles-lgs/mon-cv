@@ -1,0 +1,1165 @@
+@media screen and (max-width: 1440px) {
+    h1 {
+        font-size: 1.7em;
+    }
+    h2 {
+        font-size: 1.2em;
+    }
+    h3 {
+        font-size: 1em;
+    }
+    p {
+        font-size: 0.8em;
+    }
+    .container-img, .container-img img {
+        width: 170px;
+        height: 170px;
+    }
+    .container-img {
+        left: 70px;
+        top: 100px;
+    }
+    .container-title {
+        left: 400px;
+        width: 250px;
+        top: 100px;
+    }
+    .container-liens {
+        left: 280px;
+        top: 200px;
+    }
+    .container-contact {
+        left: 950px;
+        width: 300px;
+        top: 100px;
+    }
+    .formation {
+        top: 690px;
+        left: 70px;
+        width: 300px;
+    }
+    .xp, .auto-formation, .vendeur-meuble, .carrossier, .veudeur-expert, .barman {
+        width: 300px;
+        left: 950px;
+    }
+    .xp {
+        top: 295px;
+    }
+    .auto-formation, .autonomie {
+        top: 340px;
+    }
+    .vendeur-meuble, .communication {
+        top: 420px;
+    }
+    .carrossier, .minutie {
+        top: 500px;
+    }
+    .veudeur-expert, .strategie {
+        top: 585px;
+    }
+    .barman, .rigueur {
+        top: 710px;
+    }
+    .autonomie, .communication, .minutie, .strategie, .rigueur {
+        left: 700px;
+    }
+    .autonomie, .communication, .minutie, .rigueur {
+        height: 62px;
+    }
+    .strategie {
+        height: 105px;
+    }
+    .popup {
+        top: 370px;
+        left: 160px;
+        width: 450px;
+    }
+    .popup p {
+        font-size: 0.9em;
+    }
+    .one {
+        top: 150px;
+        left: 240px;
+        width: 160px;
+    }
+    .two {
+        left: 650px;
+        width: 300px;
+        top: 150px;
+    }
+    .three {
+        top: 150px;
+    }
+    .three, .four, .five, .six, .seven, .eight, .nine {
+        left: 1250px;
+        width: 100px;
+    }
+    .four {
+        top: 307px;
+    }
+    .five, .eleven, .sixteen {
+        top: 367px;
+    }
+    .six, .twelve, .seventeen {
+        top: 447px;
+    }
+    .seven, .thirteen, .eighteen {
+        top: 527px;
+    }
+    .eight, .fourteen, .nineteen {
+        top: 635px;
+    }
+    .nine, .fifteen, .twenty {
+        top: 737px;
+    }
+    .ten {
+        top: 441px;
+        left: 1059px;
+        width: 592px;
+    }
+    .eleven, .twelve, .thirteen, .fourteen, .fifteen {
+        width: 50px;
+        left: 900px;
+    }
+    .sixteen, .seventeen, .eighteen, .nineteen, .twenty {
+        width: 50px;
+        left: 650px;
+    }
+    .twenty-one {
+        top: 552px;
+        left: 455px;
+        width: 381px;
+    }
+    .twenty-two {
+        top: 739px;
+        left: 370px;
+        width: 271px;
+    }
+    .twenty-three {
+        top: 270px;
+        left: 120px;
+        height: 420px;
+    }
+    .twenty-four {
+        top: 157px;
+        left: 858px;
+        height: 83px;
+    }
+    .twenty-five {
+        top: 235px;
+        left: 350px;
+        width: 508px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .overlay {
+        background-position: center;
+    }
+    .container-img {
+        left: 20px;
+    }
+    .container-liens {
+        left: 210px;
+    }
+    .container-title {
+        left: 290px;
+    }
+    .container-contact {
+        left: 690px;
+        width: 249px;
+    }
+    .formation {
+        left: 20px;
+    }
+    .autonomie, .communication, .minutie, .strategie, .rigueur {
+        left: 459px;
+        width: 150px;
+    }
+    .xp, .auto-formation, .vendeur-meuble, .carrossier, .veudeur-expert, .barman {
+        left: 659px;
+        width: 280px;
+    }
+    .popup {
+        top: 320px;
+        left: 90px;
+        width: 290px;
+        height: 350px;
+    }
+    .one {
+        left: 190px;
+        width: 100px;
+    }
+    .two {
+        left: 540px;
+        width: 150px;
+    }
+    .three, .four, .five, .six, .seven, .eight, .nine {
+        left: 939px;
+        width: 50px;
+    }
+    .ten {
+        left: 698px;
+    }
+    .eleven, .twelve, .thirteen, .fourteen, .fifteen {
+        left: 609px;
+    }
+    .sixteen, .seventeen, .eighteen, .nineteen, .twenty {
+        left: 409px;
+    }
+    .twenty-one {
+        left: 214px;
+    }
+    .twenty-two {
+        left: 320px;
+        width: 80px;
+    }
+    .twenty-three {
+        left: 60px;
+    }
+    .twenty-four {
+        left: 629px;
+    }
+    .twenty-five {
+        left: 280px;
+        width: 350px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    h1 {
+        font-size: 1.5em;
+    }
+    .container-img {
+        top: 30px;
+        left: 30px;
+    }
+    .container-title {
+        top: 55px;
+        left: 250px;
+        width: 200px;
+    }
+    .container-contact {
+        top: 55px;
+        left: 500px;
+        width: 200px;
+    }
+    .container-liens {
+        top: 250px;
+        left: 120px;
+    }
+    .formation {
+        top: 370px;
+        left: 30px;
+        width: 270px;
+        border-right: none;
+        border-bottom: solid 1px rgba(245, 245, 245, 1);
+    }
+    .popup {
+        top: 200px;
+        left: 340px;
+        width: 340px;
+        height: 250px;
+    }
+    .autonomie, .communication, .minutie, .strategie, .rigueur {
+        left: 120px;
+    }
+    .xp, .auto-formation, .vendeur-meuble, .carrossier, .veudeur-expert, .barman {
+        left: 320px;
+        width: 350px;
+    }
+    .xp {
+        top: 490px;
+    }
+    .auto-formation, .autonomie {
+        top: 540px;
+    }
+    .vendeur-meuble, .communication {
+        top: 620px;
+    }
+    .carrossier, .minutie {
+        top: 700px;
+    }
+    .veudeur-expert, .strategie {
+        top: 780px;
+    }
+    .barman, .rigueur {
+        top: 900px;
+    }
+    .one {
+        top: 100px;
+        left: 200px;
+        width: 50px;
+    }
+    .two {
+        top: 100px;
+        left: 450px;
+        width: 50px;
+    }
+    .three {
+        top: 100px;
+        left: 700px;
+        width: 20px;
+    }
+    .four {
+        top: 502px;
+    }
+    .four, .five, .six, .seven, .eight, .nine {
+        left: 670px;
+        width: 50px;
+    }
+    .ten {
+        top: 513px;
+        left: 306px;
+        width: 836px;
+    }
+    .five, .eleven, .sixteen {
+        top: 570px;
+    }
+    .six, .twelve, .seventeen {
+        top: 650px;
+    }
+    .seven, .thirteen, .eighteen {
+        top: 730px;
+    }
+    .eight, .fourteen, .nineteen {
+        top: 830px;
+    }
+    .nine, .fifteen, .twenty {
+        top: 930px;
+    }
+    .eleven, .twelve, .thirteen, .fourteen, .fifteen {
+        left: 270px;
+    }
+    .sixteen, .seventeen, .eighteen, .nineteen, .twenty {
+        left: 70px;
+    }
+    .twenty-one {
+        top: 450px;
+        left: 61px;
+        height: 485px;
+        width: 10px;
+        transform: rotate(0deg);
+        border-top-right-radius: 0;
+    }
+    .twenty-two {
+        display: none;
+    }
+    .twenty-three {
+        top: 180px;
+        height: 190px;
+    }
+    .twenty-four {
+        top: 156px;
+        left: 289px;
+        height: 134px;
+    }
+    .twenty-five {
+        top: 285px;
+        left: 190px;
+        width: 100px;
+    }
+}
+
+@media screen and (max-width: 688px) {
+    .container-img {
+        left: 20px;
+        width: 150px;
+        height: 150px;
+    }
+    .container-img img {
+        width: 150px;
+        height: 150px;
+    }
+    .container-title {
+        left: 190px;
+    }
+    .container-contact {
+        left: 420px;
+    }
+    .container-liens {
+        top: 250px;
+        left: 100px;
+    }
+    .formation {
+        top: 370px;
+        left: 20px;
+        width: 250px;
+    }
+    .popup {
+        top: 200px;
+        left: 300px;
+        width: 310px;
+        height: 250px;
+    }
+    .autonomie, .communication, .minutie, .strategie, .rigueur {
+        left: 80px;
+    }
+    .xp, .auto-formation, .vendeur-meuble, .carrossier, .veudeur-expert, .barman {
+        left: 260px;
+    }
+    .one {
+        left: 170px;
+        width: 20px;
+    }
+    .two {
+        left: 390px;
+        width: 30px;
+    }
+    .three {
+        left: 620px;
+    }
+    .four, .five, .six, .seven, .eight, .nine {
+        left: 610px;
+        width: 30px;
+    }
+    .ten {
+        left: 227px;
+    }
+    .eleven, .twelve, .thirteen, .fourteen, .fifteen {
+        left: 230px;
+        width: 30px;
+    }
+    .sixteen, .seventeen, .eighteen, .nineteen, .twenty {
+        left: 50px;
+        width: 30px;
+    }
+    .twenty-one {
+        top: 450px;
+        left: 40px;
+        height: 485px;
+    }
+    .twenty-three {
+        top: 180px;
+        left: 40px;
+        height: 190px;
+    }
+    .twenty-four {
+        left: 259px;
+    }
+    .twenty-five {
+        left: 170px;
+        width: 90px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    body {
+        background: rgb(31, 31, 31);
+    }
+    h1 {
+        font-size: 1.7em;
+    }
+    .overlay {
+        height: 250px;
+        width: 425px;
+        background: rgb(135, 0, 0);
+        box-shadow: 0 2px 10px rgb(0, 0, 0);
+    }
+    .overlay-one {
+        display: block;
+        position: absolute;
+        height: 520px;
+        width: 425px;
+        top: 1120px;
+        background: rgb(135, 0, 0);
+        box-shadow: 0 2px 10px rgb(0, 0, 0);
+    }
+    .overlay-two {
+        display: block;
+        position: absolute;
+        top: 280px;
+        width: 425px;
+        height: 100px;
+        background: rgb(59, 59, 59);
+        box-shadow: 0 2px 10px rgb(0, 0, 0);
+    }
+    .overlay-three {
+        display: block;
+        position: absolute;
+        top: 990px;
+        width: 425px;
+        height: 100px;
+        background: rgb(59, 59, 59);
+        box-shadow: 0 2px 10px rgb(0, 0, 0);
+    }
+    .overlay-four {
+        display: block;
+        position: absolute;
+        top: 635px;
+        left: 168px;
+        height: 100px;
+        width: 100px;
+        background: radial-gradient(circle, rgba(179,74,0,1) 0%, rgba(135,0,0,1) 100%);
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+        border-radius: 100px;
+    }
+    .overlay-five {
+        display: block;
+        position: absolute;
+        top: 385px;
+        left: 168px;
+        width: 100px;
+        height: 220px;
+        background: rgb(59, 59, 59);
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+    }
+    .overlay-six {
+        display: block;
+        position: absolute;
+        top: 765px;
+        left: 168px;
+        width: 100px;
+        height: 220px;
+        background: rgb(59, 59, 59);
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+    }
+    .overlay-seven {
+        display: block;
+        position: absolute;
+        top: 430px;
+        height: 110px;
+        width: 163px;
+        background: rgba(179,74,0,1);
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+        transform: skewY(-30deg);
+    }
+    .overlay-eight {
+        display: block;
+        position: absolute;
+        top: 830px;
+        left: 273px;
+        height: 110px;
+        width: 152px;
+        background: rgba(179,74,0,1);
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+        transform: skewY(-30deg);
+    }
+    .overlay-nine {
+        display: block;
+        position: absolute;
+        top: 550px;
+        height: 20px;
+        width: 163px;
+        background: rgb(135, 0, 0);
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+        transform: skewY(-30deg);
+    }
+    .overlay-ten {
+        display: block;
+        position: absolute;
+        top: 800px;
+        left: 273px;
+        height: 20px;
+        width: 152px;
+        background: rgb(135, 0, 0);
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+        transform: skewY(-30deg);
+    }
+    .overlay-eleven {
+        display: block;
+        position: absolute;
+        top: 605px;
+        left: 168px;
+        width: 100px;
+        height: 10px;
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        animation: overlay 3s infinite linear;
+    }
+    .overlay-twelve {
+        display: block;
+        position: absolute;
+        top: 380px;
+        left: 168px;
+        width: 100px;
+        height: 5px;
+        animation: overlay 3s infinite linear;
+    }
+    .overlay-thirteen {
+        display: block;
+        position: absolute;
+        top: 755px;
+        left: 168px;
+        width: 100px;
+        height: 10px;
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        animation: overlay 3s infinite linear;
+    }
+    .overlay-fourteen {
+        display: block;
+        position: absolute;
+        top: 985px;
+        left: 168px;
+        width: 100px;
+        height: 5px;
+        animation: overlay 3s infinite linear;
+    }
+    .overlay-fifteen {
+        display: block;
+        position: absolute;
+        top: 385px;
+        left: 163px;
+        width: 5px;
+        height: 140px;
+        transform: skewY(-30deg);
+        animation: overlay 3s infinite linear;
+    }
+    .overlay-sixteen {
+        display: block;
+        position: absolute;
+        top: 540px;
+        width: 163px;
+        height: 10px;
+        transform: skewY(-30deg);
+        animation: overlay 3s infinite linear;
+    }
+    .overlay-seventeen {
+        display: block;
+        position: absolute;
+        top: 845px;
+        left: 268px;
+        width: 5px;
+        height: 140px;
+        transform: skewY(-30deg);
+        animation: overlay 3s infinite linear;
+    }
+    .overlay-eighteen {
+        display: block;
+        position: absolute;
+        top: 820px;
+        left: 273px;
+        width: 152px;
+        height: 10px;
+        transform: skewY(-30deg);
+        animation: overlay 3s infinite linear;
+    }
+    .overlay-nineteen {
+        display: block;
+        position: absolute;
+        top: 820px;
+        left: 91px;
+        width: 76px;
+        height: 15px;
+        transform: skewY(-30deg);
+        animation: overlay 3s infinite linear;
+    }
+    .overlay-twenty {
+        display: block;
+        position: absolute;
+        top: 850px;
+        left: 107px;
+        width: 60px;
+        height: 10px;
+        transform: skewY(-30deg);
+        animation: overlay 3s infinite linear;
+    }
+    .alpha {
+        display: block;
+        position: absolute;
+        top: 846px;
+        left: 76px;
+        width: 15px;
+        height: 474px;
+        transform: skewY(-30deg);
+        border-top-left-radius: 5px;
+        animation: overlay 3s infinite linear;
+    }
+    .beta {
+        display: block;
+        position: absolute;
+        top: 1140px;
+        left: 143px;
+        width: 150px;
+        height: 250px;
+        border-radius: 5px;
+        background: rgb(59, 59, 59);
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+    }
+    .gamma {
+        display: block;
+        position: absolute;
+        top: 1273px;
+        left: 168px;
+        width: 100px;
+        height: 100px;
+        border-radius: 100px;
+        background: rgb(31, 31, 31);
+        border: solid 1px rgb(0, 0, 0);
+    }
+    .delta {
+        display: block;
+        position: absolute;
+        top: 1157px;
+        left: 168px;
+        width: 100px;
+        height: 100px;
+        border-radius: 100px;
+        background: rgb(31, 31, 31);
+        border: solid 1px rgb(0, 0, 0);
+    }
+    .epsilon {
+        display: block;
+        position: absolute;
+        top: 1278px;
+        left: 214px;
+        width: 9px;
+        height: 90px;
+        background: rgb(0, 0, 0);
+        animation: rotate 0.2s infinite linear;
+    }
+    .zeta {
+        display: block;
+        position: absolute;
+        top: 1319px;
+        left: 173px;
+        width: 90px;
+        height: 9px;
+        background: rgb(0, 0, 0);
+        animation: rotate 0.2s infinite linear;
+    }
+    .eta {
+        display: block;
+        position: absolute;
+        top: 1162px;
+        left: 214px;
+        width: 9px;
+        height: 90px;
+        background: rgb(0, 0, 0);
+        animation: rotate 0.2s infinite linear;
+    }
+    .theta {
+        display: block;
+        position: absolute;
+        top: 1203px;
+        left: 173px;
+        width: 90px;
+        height: 9px;
+        background: rgb(0, 0, 0);
+        animation: rotate 0.2s infinite linear;
+    }
+    .iota {
+        display: block;
+        position: absolute;
+        top: 1316px;
+        left: 76px;
+        width: 67px;
+        height: 15px;
+        border-bottom-left-radius: 10px;
+        animation: overlay 3s infinite linear;
+    }
+    .kappa {
+        display: block;
+        position: absolute;
+        top: 870px;
+        left: 97px;
+        width: 10px;
+        height: 282px;
+        transform: skewY(-30deg);
+        border-top-left-radius: 5px;
+        animation: overlay 3s infinite linear;
+    }
+    .lambda {
+        display: block;
+        position: absolute;
+        top: 1150px;
+        left: 97px;
+        width: 46px;
+        height: 10px;
+        border-bottom-left-radius: 10px;
+        animation: overlay 3s infinite linear;
+    }
+    .mu {
+        display: block;
+        position: absolute;
+        top: 1147px;
+        left: 148px;
+        width: 15px;
+        height: 15px;
+        border-radius: 20px;
+        border: solid 1px rgb(31, 31, 31);
+        animation: overlay 3s infinite linear;
+    }
+    .nu {
+        display: block;
+        position: absolute;
+        top: 535px;
+        left: 267px;
+        width: 76px;
+        height: 15px;
+        transform: skewY(-30deg);
+        animation: overlay 3s infinite linear;
+    }
+    .xi {
+        display: block;
+        position: absolute;
+        top: 510px;
+        left: 267px;
+        width: 60px;
+        height: 10px;
+        transform: skewY(-30deg);
+        animation: overlay 3s infinite linear;
+    }
+    .omicron {
+        display: block;
+        position: absolute;
+        top: 245px;
+        left: 327px;
+        width: 10px;
+        height: 255px;
+        transform: skewY(-30deg);
+        border-bottom-right-radius: 5px;
+        animation: overlay 3s infinite linear;
+    }
+    .pi {
+        display: block;
+        position: absolute;
+        top: 245px;
+        left: 343px;
+        width: 15px;
+        height: 279px;
+        transform: skewY(-30deg);
+        border-bottom-right-radius: 5px;
+        animation: overlay 3s infinite linear;
+    }
+    .rho {
+        display: block;
+        position: absolute;
+        top: 70px;
+        left: 40px;
+        height: 50px;
+        width: 25px;
+        background: rgb(31, 31, 31);
+        border: solid 1px rgb(0, 0, 0);
+        box-shadow: 1px 1px 3px rgb(0, 0, 0);
+        border-radius: 5px;
+    }
+    .container-img {
+        top: 20px;
+        left: 107px;
+        width: 211px;
+        height: 211px;
+        border-left: solid 1px rgba(245, 245, 245, 1);
+        border-bottom: none;
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+    }
+    .container-img img {
+        width: 211px;
+        height: 211px;
+    }
+    .container-title {
+        top: 300px;
+        left: 57px;
+        width: 311px;
+        height: 60px;
+        animation: pulsion 2s infinite linear;
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+    }
+    .container-contact {
+        top: 431px;
+        left: 57px;
+        border-right: none;
+        animation: pulsion 2.1s infinite linear;
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+    }
+    .container-liens {
+        top: 445px;
+        left: 298px;
+        filter: hue-rotate(90deg);
+        animation: pulsion 2.1s infinite linear;
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+    }
+    .container-liens:hover {
+        filter: none;
+    }
+    .popup {
+        top: 555px;
+        left: 57px;
+        width: 311px;
+        height: 270px;
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+    }
+    .xp, .auto-formation, .vendeur-meuble, .carrossier, .veudeur-expert, .barman {
+        left: 57px;
+        width: 311px;
+        border-left: none;
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+    }
+    .xp {
+        top: 570px;
+        animation: pulsion 2.2s infinite linear;
+    }
+    .auto-formation {
+        top: 620px;
+        animation: pulsion 2.3s infinite linear;
+    }
+    .vendeur-meuble {
+        top: 710px;
+        animation: pulsion 2.4s infinite linear;
+    }
+    .carrossier {
+        top: 800px;
+        animation: pulsion 2.5s infinite linear;
+    }
+    .veudeur-expert {
+        top: 890px;
+        animation: pulsion 2.6s infinite linear;
+    }
+    .barman {
+        top: 1020px;
+        animation: pulsion 2.7s infinite linear;
+    }
+    .autonomie, .communication, .minutie, .strategie, .rigueur {
+        left: 57px;
+        width: 311px;
+        border-right: none;
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+    }
+    .autonomie {
+        top: 1170px;
+        animation: pulsion 2.8s infinite linear;
+    }
+    .communication {
+        top: 1250px;
+        animation: pulsion 2.9s infinite linear;
+    }
+    .minutie {
+        top: 1330px;
+        animation: pulsion 3s infinite linear;
+    }
+    .strategie {
+        top: 1410px;
+        animation: pulsion 3.1s infinite linear;
+    }
+    .rigueur {
+        top: 1535px;
+        animation: pulsion 3.2s infinite linear;
+    }
+    .formation {
+        top: 1670px;
+        left: 57px;
+        width: 311px;
+        border-left: solid 1px rgba(245, 245, 245, 1);
+        border-right: solid 1px rgba(245, 245, 245, 1);
+        border-top: none;
+        border-bottom: none;
+        animation: pulsion 3.3s infinite linear;
+        box-shadow: 2px 2px 10px rgb(0, 0, 0);
+    }
+    .one {
+        top: 160px;
+        left: 29px;
+        width: 78px;
+        animation: anim 1.8s infinite linear;
+    }
+    .two {
+        top: 160px;
+        left: 318px;
+        width: 78px;
+        animation: anim 2.2s infinite linear;
+    }
+    .three {
+        top: 330px;
+        left: 30px;
+        width: 27px;
+        height: 5px;
+        animation: anim 1.8s infinite linear;
+    }
+    .four {
+        top: 330px;
+        left: 368px;
+        width: 27px;
+        animation: anim 2.2s infinite linear;
+    }
+    .five {
+        top: 480px;
+        left: 30px;
+        width: 27px;
+        animation: anim 1.8s infinite linear;
+    }
+    .six, .seven, .eight, .nine, .eleven, .twelve {
+        left: 368px;
+        width: 27px;
+        animation: anim 2.2s infinite linear;
+    }
+    .six {
+        top: 583px;
+    }
+    .seven {
+        top: 648px;
+    }
+    .eight {
+        top: 738px;
+    }
+    .nine {
+        top: 828px;
+    }
+    .ten {
+        top: 160px;
+        left: 395px;
+        height: 1630px;
+        width: 10px;
+        transform: rotate(0deg);
+        border-top-left-radius: 0;
+        border-bottom-right-radius: 10px;
+        animation: anim 2.2s infinite linear;
+    }
+    .eleven {
+        top: 938px;
+    }
+    .twelve {
+        top: 1048px;
+    }
+    .thirteen, .fourteen, .fifteen, .sixteen, .seventeen {
+        left: 30px;
+        width: 27px;
+        animation: anim 1.8s infinite linear;
+    }
+    .thirteen {
+        top: 1198px;
+    }
+    .fourteen {
+        top: 1278px;
+    }
+    .fifteen {
+        top: 1358px;
+    }
+    .sixteen {
+        top: 1458px;
+    }
+    .seventeen {
+        top: 1563px;
+    }
+    .eighteen {
+        top: 1710px;
+        left: 30px;
+        width: 27px;
+        animation: anim 1.8s infinite linear;
+    }
+    .nineteen {
+        top: 1710px;
+        left: 368px;
+        width: 27px;
+        animation: anim 2.2s infinite linear;
+    }
+    .twenty {
+        top: 480px;
+        left: 368px;
+        width: 27px;
+        animation: anim 2.2s infinite linear;
+    }
+    .twenty-one {
+        top: 80px;
+        left: 45px;
+        height: 15px;
+        width: 62px;
+        background: none;
+        border-top-left-radius: 10px;
+        box-shadow: 1px 1px 3px rgb(0, 0, 0);
+        animation: overlay 3s infinite linear;
+    }
+    .twenty-three {
+        top: 160px;
+        left: 20px;
+        height: 1630px;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        animation: anim 1.8s infinite linear;
+    }
+    .twenty-four {
+        top: 100px;
+        left: 45px;
+        height: 10px;
+        width: 72px;
+        background: none;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        box-shadow: 1px 1px 3px rgb(0, 0, 0);
+        animation: overlay 3.1s infinite linear;
+    }
+    .twenty-five {
+        top: 1780px;
+        left: 30px;
+        width: 365px;
+        height: 10px;
+        animation: anim 2s infinite linear;
+    }
+    @keyframes pulsion {
+        5% {
+            background: rgba(0, 0, 0, 0.1);
+        }
+        25% {
+            background: rgba(0, 0, 0, 0.2);
+        }
+        50% {
+            background: rgba(0, 0, 0, 0.4);
+        }
+        75% {
+            background: rgba(0, 0, 0, 0.2);
+        }
+        100% {
+            background: rgba(0, 0, 0, 0.1);
+        }
+    }
+    @keyframes anim {
+        5% {
+            box-shadow: 0px 0px 5px rgba(245, 245, 245, 1);
+        }
+        25% {
+            background: rgba(245, 245, 245, 0.5);
+            box-shadow: 0px 0px 10px rgba(245, 245, 245, 1);
+        }
+        50% {
+            background: rgba(245, 245, 245, 1);
+            box-shadow: 0px 0px 20px rgba(179, 74, 0, 1);
+        }
+        75% {
+            background: rgba(245, 245, 245, 0.5);
+            box-shadow: 0px 0px 10px rgba(245, 245, 245, 1);
+        }
+        100% {
+            background: rgba(245, 245, 245, 0.3);
+            box-shadow: 0px 0px 5px rgba(245, 245, 245, 1);
+        }
+    }
+    @keyframes overlay {
+        5% {
+            background: radial-gradient(circle, rgba(179,74,0,0.3) 0%, rgba(135,0,0,0.3) 100%);
+        }
+        25% {
+            background: radial-gradient(circle, rgba(179,74,0,0.4) 0%, rgba(135,0,0,0.4) 100%);
+        }
+        50% {
+            background: radial-gradient(circle, rgba(179,74,0,0.5) 0%, rgba(135,0,0,0.5) 100%);
+        }
+        75% {
+            background: radial-gradient(circle, rgba(179,74,0,0.4) 0%, rgba(135,0,0,0.4) 100%);
+        }
+        100% {
+            background: radial-gradient(circle, rgba(179,74,0,0.3) 0%, rgba(135,0,0,0.3) 100%);
+        }
+    }
+    @keyframes rotate {
+        5% {
+            transform: rotate(60deg);
+        }
+        25% {
+            transform: rotate(120deg);
+        }
+        50% {
+            transform: rotate(180deg);
+        }
+        60% {
+            transform: rotate(200deg);
+        }
+        80% {
+            transform: rotate(240deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+}
